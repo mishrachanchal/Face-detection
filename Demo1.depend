@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1511258908 source:c:\users\chanchal mishra\desktop\demo1\main.cpp
+	<opencv2/objdetect/objdetect.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<iostream>
+	<stdio.h>
+
+1523098247 source:c:\users\chanchal mishra\desktop\project\demo1\main.cpp
+	<opencv2/objdetect/objdetect.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<iostream>
+	<stdio.h>
+
